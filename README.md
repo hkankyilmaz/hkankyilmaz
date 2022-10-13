@@ -1,6 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
-Welcome to my GitHub! I'm Hakan KARAYILMAZ.
+Welcome to my GitHub! I'm Hakan KARAYILMAZ.I have been developing myself as a frontend developer for
+a while.I love teamwork, spending time on computer,mostly learning and applying new staff.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz)
 <br/><br/>
@@ -28,59 +29,17 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
           <ul>
           <li>    
             <a
-              href="https://github.com/mryesiller/Talecraft_Guide_WebSite"
+              href="https://github.com/hkankyilmaz/expanding-flex-cards"
               target="blank"
-              title="Talecraft"        
-            >Talecraft Guide Website</a        
+              title="expanding-cards"        
+            >Expanding-flex-Cards</a        
           </li>
-          <li>    
+         <li>    
             <a
-              href="https://mryesiller.github.io/HTML-ThemeClock/"
+              href="https://github.com/hkankyilmaz/water-app"
               target="blank"
-              title="ThemeClock"        
-            >ThemeClock</a        
-          </li>
-          <li>    
-            <a
-              href="https://mryesiller.github.io/HTML_GithubProfiles/"
-              target="blank"
-              title="GithubProfiles"        
-            >Github Profiles</a        
-          </li>
-          <li>    
-            <a
-              href="https://mryesiller.github.io/HTML_Hoverboard/"
-              target="blank"
-              title="Hoverboard"        
-            >Hoverboard</a        
-          </li>
-          <li>    
-            <a
-              href="https://mryesiller.github.io/HTML_Pokedex/"
-              target="blank"
-              title="Pokedex"        
-            >Pokedex</a        
-          </li>
-          <li>    
-            <a
-              href="https://mryesiller.github.io/HTML_3D_BOXES/"
-              target="blank"
-              title="3DBoxes"        
-            >3D Boxes</a        
-          </li>
-          <li>    
-            <a
-              href="https://mryesiller.github.io/HTML_TodoApp/"
-              target="blank"
-              title="TodoApp"        
-            >Todo App</a        
-          </li>  
-          <li>    
-            <a
-              href="https://mryesiller.github.io/sass-framework-project/"
-              target="blank"
-              title="Sass-Framework"        
-            >Sass css framework</a        
+              title="water-app"        
+            >Water App</a        
           </li> 
       </ul>  
         </td>  
@@ -88,74 +47,69 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
           <ul>
             <li>    
               <a
-                href="https://delightful-florentine-0e0912.netlify.app/"
+                href="https://github.com/hkankyilmaz/credit-calculater"
                 target="blank"
-                title="TodoApp"        
-              >Todo App</a        
+                title="credit-calculater"        
+              >Credit Calculater</a        
             </li>
             <li>    
               <a
-                href="https://mryesiller-react-weatherapp.herokuapp.com/"
+                href="https://github.com/hkankyilmaz/weather-app"
                 target="blank"
                 title="WeatherApp"        
               >Weather App</a        
             </li>
             <li>    
               <a
-                href="https://golden-zuccutto-812ec2.netlify.app/"
+                href="https://github.com/hkankyilmaz/find-event"
                 target="blank"
-                title="MusicPlayer"        
-              >Music Player</a        
+                title="find-event"        
+              >Find Event</a        
             </li>
             <li>    
               <a
-                href="https://zustand-example.netlify.app/"
-                target="blank"
-                title="Zustand-TodoApp"        
-              >Zustand-TodoApp</a        
-            </li>
-            <li>    
-              <a
-                href="https://github.com/mryesiller/mern-auth-boilerplate"
-                target="blank"
-                title="MERN auth with zustand"        
-              >MERN-auth-boiler with Zustand-context </a        
-            </li>
-            <li>    
-              <a href="https://react-tictactoe-zustand.netlify.app/"
+                href="https://github.com/hkankyilmaz/xoxgame"
                 target="blank"
                 title="tic-tac-toe"        
-              >Tic-Tac-Toe </a        
+              >Tic Tac Toe Game</a        
             </li>
-             <li>    
-              <a href="https://popupsmart-react-practicum.netlify.app/login"
+            <li>    
+              <a
+                href="https://github.com/hkankyilmaz/movieapp"
                 target="blank"
-                title="todo-app-CRUD"        
-              >Popupsmart react practicum </a        
+                title="movieapp"        
+              >Movie App </a        
             </li>
-             <li>    
-              <a href="https://fimple-react-practicum.netlify.app/"
+            <li>    
+              <a href="https://github.com/hkankyilmaz/fmetal"
                 target="blank"
-                title="Credit Calculator"        
-              >Fimple Practicum Credit Calculator </a        
+                title="f-meatl"        
+              >F metal </a        
             </li>
-          </ul>  
+                      </ul>  
         </td>            
         <td>
           <ul>
-            <li>    
+          <li>    
               <a
                 href="https://nodemailer-expressjs.herokuapp.com/"
                 target="blank"
-                title="Nodemailer"        
-              >Nodemailer with Express</a        
+                title="pht-sc-plat"        
+              >Photographer Social Platform</a        
             </li>
             <li>    
               <a
-                href="https://gusto-finalproject.herokuapp.com"
+                href="https://github.com/hkankyilmaz/patika-nodejs-course/tree/main/project-PCAT"
                 target="blank"
-                title="Patika Bootcamp Project"        
-              >Bootcamp Final Project</a        
+                title="pcat"        
+              >PCAT</a        
+            </li>
+            <li>    
+              <a
+                href="https://github.com/hkankyilmaz/patika-nodejs-course/tree/main/project-CleanBlog"
+                target="blank"
+                title="clean-blog"        
+              >Clean Blog</a        
             </li>
           </ul>
         </td>  
@@ -170,18 +124,18 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
 
 <img src="./img/9.png" alt="JS" width="140" ><img src="./img/2.png" alt="JS" width="140" ><img src="./img/3.png" alt="JS" width="150" ><img src="./img/6.png" alt="JS" width="140" ><img src="./img/8.png" alt="JS" width="140" >
 
-<img src="./img/4.png" alt="JS" width="140" ><img src="./img/7.png" alt="JS" width="140" ><img src="./img/34.png" alt="JS" width="140" ><img src="./img/45.png" alt="JS" width="140" >
+<img src="./img/4.png" alt="JS" width="140" ><img src="./img/7.png" alt="JS" width="140" ><img src="./img/34.png" alt="JS" width="140" >
 
 <img src="./img/5.png" alt="JS" width="140" ><img src="./img/11.png" alt="JS" width="140" >
 
-<img src="./img/12.png" alt="JS" width="140" ><img src="./img/13.png" alt="JS" width="140">
+<img src="./img/12.png" alt="JS" width="140" >
 
 <hr />
 
 <h2 align="center">🔥 TOOLS and WEBSITES I use during the day 🔥</h2>
 <br />
 
-<img src="./img/14.png" alt="JS" width="140" ><img src="./img/19.png" alt="JS" width="140" ><img src="./img/27.png" alt="JS" width="140" ><img src="img/33.png" alt="JS" width="140" ><img src="img/35.png" alt="JS" width="140" ><img src="img/18.png" alt="JS" width="140" ><img src="img/43.png" alt="JS" width="140" >
+<img src="./img/14.png" alt="JS" width="140" ><img src="./img/19.png" alt="JS" width="140" ><img src="./img/27.png" alt="JS" width="140" ><img src="img/18.png" alt="JS" width="140" ><img src="img/43.png" alt="JS" width="140" >
 
 <img src="./img/28.png" alt="JS" width="140" ><img src="./img/21.png" alt="JS" width="140" ><img src="./img/24.png" alt="JS" width="140" ><img src="./img/26.png" alt="JS" width="140" ><img src="./img/25.png" alt="JS" width="140" ><img src="./img/37.png" alt="JS" width="140" ><img src="./img/36.png" alt="JS" width="140" ><img src="./img/40.png" alt="JS" width="140" ><img src="./img/39.png" alt="JS" width="140" ><img src="./img/31.png" alt="JS" width="140" ><img src="./img/32.png" alt="JS" width="140" ><img src="./img/30.png" alt="JS" width="140" >
 
@@ -212,12 +166,11 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
 <div align="center">
   <p>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hkankyilmaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nord" /> 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/>
+<img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/>
   </p>
 </div>
-<br>
-<br>
-<div align="center">
+
+<div align="center" >
   <a
     href="https://github.com/denvercoder1/github-readme-streak-stats"
     title="Go to Source"
@@ -225,7 +178,7 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
     <img
       align="center"
       width="396"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hkankyilmaz&theme=react&border=61dafb&hide_border=truetheme=nord"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=hkankyilmaz&theme=react&border=61dafb&hide_border=true&theme=nord"
       alt="zumrudu-anka"
     />
   </a>  
