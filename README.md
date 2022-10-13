@@ -211,11 +211,12 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
 <br />
 <div align="center">
   <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hkankyilmaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hkankyilmaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
   </p>
 </div>
-
+<br>
+<br>
 <div align="center">
   <a
     href="https://github.com/denvercoder1/github-readme-streak-stats"
