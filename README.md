@@ -1,14 +1,13 @@
 <h2 align="center">Hi there 👋</h2>
 
-Welcome to my GitHub! I'm Hakan KARAYILMAZ, a Electronic Enginerr graduate who's
-transitioning into Software Engineering through self-study. I create awesome MERN projects.
+Welcome to my GitHub! I'm Hakan KARAYILMAZ.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz)
 <br/><br/>
 
 <p align="center">
 
-<a href="./resum/Hakan_KARAYILMAZ_RES.pdf">
+<a href="./resume/Hakan_KARAYILMAZ_RES.pdf">
   <img src="./img/41.png" alt="JS" width="140" >
 </a>
 </p>
