@@ -211,8 +211,8 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
 <br />
 <div align="center">
   <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hkankyilmaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hkankyilmaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nord" /> 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkankyilmaz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/>
   </p>
 </div>
 <br>
@@ -225,7 +225,7 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.
     <img
       align="center"
       width="396"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hkankyilmaz&theme=react&border=61dafb&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=hkankyilmaz&theme=react&border=61dafb&hide_border=truetheme=nord"
       alt="zumrudu-anka"
     />
   </a>  
