@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Hakan KARAYILMAZ.I have been developing myself as a frontend developer for
 a while.I love teamwork, spending time on computer,mostly learning and applying new staff.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz) <br> <img width="200" align="right" alt="gif" src="https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy-downsized.gif" alt="JS" width="140" >
+![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz) <img width="200" align="right" alt="gif" src="https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy-downsized.gif" alt="JS" width="140" > <br>
 <br/><br/>
 
 <p align="center">
