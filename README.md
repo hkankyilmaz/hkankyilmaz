@@ -22,7 +22,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
       <tr>
         <td><h3>HTML Studies</h3></td>
         <td><h3>React Projects</h3></td>
-        <td><h3>Nodejs Projects</h3></td>
+        <td><h3>Full Stack Projects</h3></td>
       </tr> 
       <tr>
         <td>
