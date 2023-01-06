@@ -8,7 +8,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
 
 <p align="center">
 
-<a href="./resume/Hakan_KARAYILMAZ_RES.pdf">
+<a href="./resume/hakan KARAYILMAZ_resume.pdf">
   <img src="./img/41.png" alt="JS" width="140" >
 </a>
 </p>
