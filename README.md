@@ -63,7 +63,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
               <a
                 href="https://github.com/hkankyilmaz/credit-calculater"
                 target="blank"
-                title="credit-calculater"        
+                title="fimple-credit-calculater"        
               >Credit Calculater</a        
             </li>
             <li>    
