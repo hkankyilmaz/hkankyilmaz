@@ -159,7 +159,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
   </table>      
 </div>
 
-<hr />
+<!-- <hr />
 <h2 align="center"> 🚀 TECH STACK 🚀 </h2>
 
 <img src="./img/1.png" alt="JS" width="140" ><img src="./img/10.png" alt="JS" width="140" >
@@ -181,7 +181,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
 
 <img src="./img/28.png" alt="JS" width="140" ><img src="./img/21.png" alt="JS" width="140" ><img src="./img/24.png" alt="JS" width="140" ><img src="./img/26.png" alt="JS" width="140" ><img src="./img/25.png" alt="JS" width="140" ><img src="./img/37.png" alt="JS" width="140" ><img src="./img/36.png" alt="JS" width="140" ><img src="./img/40.png" alt="JS" width="140" ><img src="./img/39.png" alt="JS" width="140" ><img src="./img/31.png" alt="JS" width="140" ><img src="./img/32.png" alt="JS" width="140" ><img src="./img/30.png" alt="JS" width="140" >
 
-<img src="./img/16.png" alt="JS" width="140" ><img src="./img/17.png" alt="JS" width="140" ><img src="./img/29.png" alt="JS" width="140" ><img src="./img/38.png" alt="JS" width="140" ><img src="./img/44.png" alt="JS" width="140" >
+<img src="./img/16.png" alt="JS" width="140" ><img src="./img/17.png" alt="JS" width="140" ><img src="./img/29.png" alt="JS" width="140" ><img src="./img/38.png" alt="JS" width="140" ><img src="./img/44.png" alt="JS" width="140" > -->
 
 <hr />
 
