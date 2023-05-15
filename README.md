@@ -6,12 +6,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz)
 <br><br><br>
 
-<p align="center">
 
-<a href="./resume/hakan KARAYILMAZ_resume.pdf">
-  <img src="./img/41.png" alt="JS" width="140" >
-</a>
-</p>
 
 <br><br>
 
