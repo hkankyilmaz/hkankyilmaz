@@ -165,7 +165,6 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
      </tr>      
   </table>      
 </div>
-
 <div align="left">
   <table align="center"> 
       <tr>
@@ -188,7 +187,6 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
           <ul>
           </ul>  
         </td>            
-    
      </tr>      
   </table>      
 </div>
