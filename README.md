@@ -178,7 +178,14 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
             <a
               href="https://github.com/hkankyilmaz/learning-gsap/tree/main/src/02-flip/flip-image-gallery-advanced"
               target="blank"
-              title="quiz-app"        
+              title="image-gallery"        
+            >Flip Image Gallery</a        
+          </li>
+           <li>    
+            <a
+              href="https://github.com/hkankyilmaz/awesome-landing-page"
+              target="blank"
+              title="spootlight-effect"        
             >Flip Image Gallery</a        
           </li>
       </ul>  
