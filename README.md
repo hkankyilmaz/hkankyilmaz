@@ -188,7 +188,6 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
               title="image-gallery"        
             >Flip Image Gallery</a        
           </li>
-          
       </ul>  
     </td>  
         <td>
