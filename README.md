@@ -186,7 +186,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
               href="https://github.com/hkankyilmaz/awesome-landing-page"
               target="blank"
               title="spootlight-effect"        
-            >Flip Image Gallery</a        
+            >Spootlight Effect</a        
           </li>
       </ul>  
     </td>  
