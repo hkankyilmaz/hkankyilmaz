@@ -4,8 +4,9 @@ Welcome to my GitHub! I'm Hakan KARAYILMAZ.I have been developing myself as a fr
 a while.I love teamwork, spending time on computer,mostly learning and applying new staff.
 <br><br>
 - React.js, Next.js,Remix.js
+- Shopify Liquid, Shopfy Hydrogen
 - Express.js
-- Currenlty learning Java,Spring...
+- Currenlty learning SQL,Java,Spring...
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz)
