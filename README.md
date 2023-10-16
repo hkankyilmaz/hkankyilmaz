@@ -2,6 +2,11 @@
 
 Welcome to my GitHub! I'm Hakan KARAYILMAZ.I have been developing myself as a frontend developer for
 a while.I love teamwork, spending time on computer,mostly learning and applying new staff.
+<br><br>
+- React.js, Next.js,Remix.js
+- Express.js
+- Currenlty learning Java,Spring...
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hkankyilmaz)
 <br><br><br>
