@@ -38,7 +38,7 @@ a while.I love teamwork, spending time on computer,mostly learning and applying 
 
 <img src="./img/16.png" alt="JS" width="140" ><img src="./img/17.png" alt="JS" width="140" ><img src="./img/29.png" alt="JS" width="140" ><img src="./img/38.png" alt="JS" width="140" ><img src="./img/44.png" alt="JS" width="140" > -->
 
-<hr />
+
 
 <h2 align="center">⚡ Connect With Me ⚡</h2>
 <br/>
